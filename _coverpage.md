@@ -11,5 +11,5 @@
 * 支持Windows xp、npapi
 * 完美支持各种H5效果
 
-[起步](#miniblink)
+[起步](/introduction.md)
 [GitHub](https://github.com/weolar/miniblink49/)

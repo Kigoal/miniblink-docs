@@ -1,3 +1,5 @@
+# mbInit
+
 初始化整个mb。<br/>
 此句必须在所有mb api前最先调用。<br/>
 并且所有mb api必须和调用mbInit的线程为同个线程

@@ -1,9 +1,11 @@
-设置node.dll的全路径+文件名
+# mbSetMbDllPath
+
+设置mb.dll的全路径+文件名
 
 ## 语法
 
 ``` cpp
-void mbSetMbMainDllPath(
+void mbSetMbDllPath(
   const wchar_t*  dllPath
 );
 ```

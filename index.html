@@ -20,24 +20,20 @@
   <script>
     window.$docsify = {
       name: 'MiniBlink VIP',
-      basePath: './zh-cn/',
+      repo: 'https://github.com/weolar/miniblink49',
+      homepage: 'introduction.md',
       loadSidebar: true,
       autoHeader: true,
       auto2top: true,
       loadNavbar: true,
       mergeNavbar: true,
-      repo: 'https://github.com/weolar/miniblink49',
-      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
-      // subMaxLevel: 1,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
       coverpage: true,
-      // 全局搜索
-      search: 'auto', // 默认值
-      // 完整配置参数
+      onlyCover: true,
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        maxAge: 86400000,
         paths: 'auto',
         placeholder: {
           '/': '搜索'
@@ -45,12 +41,11 @@
         noData: {
           '/': '找不到结果'
         },
-        // 搜索标题的最大程级, 1 - 6
         depth: 1
       },
       themeable: {
-        readyTransition: true, // default
-        responsiveTables: true // default
+        readyTransition: true,
+        responsiveTables: true
       }
     }
   </script>
@@ -69,7 +64,6 @@
   <!-- <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script> -->
 
   <!-- 分页 -->
-  <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
   <!-- 代码高亮 -->

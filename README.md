@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-docsify init ./docs
+docsify init ./
 ```
 
 ### Compiles and hot-reloads for development
@@ -10,7 +10,7 @@ docsify init ./docs
 docsify serve docs
 ```
 
-### Compiles and minifies for production
+<!-- ### Compiles and minifies for production
 ```
 npm run build
 ```
@@ -18,4 +18,4 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
+``` -->
