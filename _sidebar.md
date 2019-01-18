@@ -18,7 +18,7 @@
   * [mbNetHookRequest](/function/mbNetHookRequest.md)
   * [mbNetChangeRequestUrl](/function/mbNetChangeRequestUrl.md)
   * [mbNetSetMIMEType](/function/mbNetSetMIMEType.md)
-  * [mbWebUrlRequestPtr](/function/mbWebUrlRequestPtr.md)
+  * [mbNetCreateWebUrlRequest](/function/mbNetCreateWebUrlRequest.md)
   * [mbNetAddHTTPHeaderFieldToUrlRequest](/function/mbNetAddHTTPHeaderFieldToUrlRequest.md)
   * [mbNetStartUrlRequest](/function/mbNetStartUrlRequest.md)
   * [mbNetGetHttpStatusCode](/function/mbNetGetHttpStatusCode.md)
