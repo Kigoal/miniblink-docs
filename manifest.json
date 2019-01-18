@@ -1,0 +1,13 @@
+{
+  "name": "miniblink docs",
+  "short_name": "miniblink docs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0b87da",
+  "icons": [{
+    "src": "/icon/miniblink.png",
+    "sizes": "462x462",
+    "type": "image/png"
+  }]
+}
