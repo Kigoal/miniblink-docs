@@ -44,6 +44,6 @@
 
 **已支持的语言**：
   - [C/C++](https://github.com/weolar/miniblink49/releases) by weolar
-  - [C#](https://github.com/E024/MiniBlinkPinvoke) by E024
+  <!-- - [C#](https://github.com/E024/MiniBlinkPinvoke) by E024 -->
 
 !> MiniBlink暂时只支持windows系统
