@@ -1,6 +1,6 @@
 # mbSetCookie
 
-!> cookie格式必须是:Set-cookie: PRODUCTINFO=webxpress; domain=.fidelity.com; path=/; secure
+!> cookie格式必须是：Set-cookie: PRODUCTINFO=webxpress;domain=.fidelity.com;path=/;secure
 
 ## 语法
 
