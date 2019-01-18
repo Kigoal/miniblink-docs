@@ -6,7 +6,7 @@
 
 ``` cpp
 void mbSetMbMainDllPath(
-  const wchar_t*  dllPath
+  const wchar_t* dllPath
 );
 ```
 

@@ -1,0 +1,65 @@
+# mbMouseMsg
+
+## 语法
+
+``` cpp
+typedef enum {
+  MB_MSG_MOUSEMOVE      = 0x0200,
+  MB_MSG_LBUTTONDOWN    = 0x0201,
+  MB_MSG_LBUTTONUP      = 0x0202,
+  MB_MSG_LBUTTONDBLCLK  = 0x0203,
+  MB_MSG_RBUTTONDOWN    = 0x0204,
+  MB_MSG_RBUTTONUP      = 0x0205,
+  MB_MSG_RBUTTONDBLCLK  = 0x0206,
+  MB_MSG_MBUTTONDOWN    = 0x0207,
+  MB_MSG_MBUTTONUP      = 0x0208,
+  MB_MSG_MBUTTONDBLCLK  = 0x0209,
+  MB_MSG_MOUSEWHEEL     = 0x020A,
+} mbMouseMsg;
+```
+
+## 枚举
+
+- **`MB_MSG_MOUSEMOVE`**
+
+  略
+
+- **`MB_MSG_LBUTTONDOWN`**
+
+  略
+
+- **`MB_MSG_LBUTTONUP`**
+
+  略
+
+- **`MB_MSG_LBUTTONDBLCLK`**
+
+  略
+
+- **`MB_MSG_RBUTTONDOWN`**
+
+  略
+
+- **`MB_MSG_RBUTTONUP`**
+
+  略
+
+- **`MB_MSG_RBUTTONDBLCLK`**
+
+  略
+
+- **`MB_MSG_MBUTTONDOWN`**
+
+  略
+
+- **`MB_MSG_MBUTTONUP`**
+
+  略
+
+- **`MB_MSG_MBUTTONDBLCLK`**
+
+  略
+
+- **`MB_MSG_MOUSEWHEEL`**
+
+  略

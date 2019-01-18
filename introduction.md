@@ -40,7 +40,7 @@
 
 ## SDK
 
-> MiniBLink 支持使用 `stdcall` 方式调用，可以支持其他语言开发。
+> MiniBlink 支持使用 `stdcall` 方式调用，可以支持其他语言开发。
 
 **已支持的语言**：
   - [C/C++](https://github.com/weolar/miniblink49/releases) by weolar
