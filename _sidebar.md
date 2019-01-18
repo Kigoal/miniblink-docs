@@ -8,6 +8,17 @@
   * [mbStopLoading](/function/mbStopLoading.md)
   * [mbReload](/function/mbReload.md)
   * [mbResize](/function/mbResize.md)
+  * [mbGetHostHWND](/function/mbGetHostHWND.md)
+  * [mbGoBack](/function/mbGoBack.md)
+  * [mbGoForward](/function/mbGoForward.md)
+  * [mbEditorSelectAll](/function/mbEditorSelectAll.md)
+  * [mbEditorUnSelect](/function/mbEditorUnSelect.md)
+  * [mbEditorCopy](/function/mbEditorCopy.md)
+  * [mbEditorCut](/function/mbEditorCut.md)
+  * [mbEditorDelete](/function/mbEditorDelete.md)
+  * [mbEditorUndo](/function/mbEditorUndo.md)
+  * [mbEditorRedo](/function/mbEditorRedo.md)
+  * [mbGetCookie](/function/mbGetCookie.md)
 
 * 结构
 
