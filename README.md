@@ -1,4 +1,4 @@
-# RapidAI Lexicon
+# miniblink-docs
 
 ## Project setup
 ```
