@@ -1,7 +1,7 @@
 {
   "name": "MB Docs",
   "short_name": "MiniBlink Docs",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#0b87da",
