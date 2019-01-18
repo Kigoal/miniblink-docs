@@ -1,6 +1,6 @@
-<!-- ![logo](http://miniblink.net/assets/images/favicon.png) -->
+<!-- ![logo](/icon/icon-462x462.png ':size=200') -->
 
-# miniblink
+# MiniBlink
 
 > 小巧开源的浏览器控件
 
@@ -11,5 +11,5 @@
 * 支持Windows xp、npapi
 * 完美支持各种H5效果
 
-[起步](/introduction.md)
+[文档](/introduction.md)
 [GitHub](https://github.com/weolar/miniblink49/)
