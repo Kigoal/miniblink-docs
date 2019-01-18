@@ -1,6 +1,9 @@
 {
+  "manifest_version": 2,
   "name": "MB Docs",
   "short_name": "MiniBlink Docs",
+  "version": "0.1",
+  "author": "Kigoal",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#fff",
@@ -9,5 +12,7 @@
     "src": "./icon/icon-462x462.png",
     "sizes": "462x462",
     "type": "image/png"
-  }]
+  }],
+  "default_locale": "zh",
+  "offline_enabled": true
 }
